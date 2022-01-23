@@ -1,2 +1,2 @@
-# WSDM---KKBox-s-Music-Recommendation-Challenge
+# WSDM-KKBox-Music-Recommendation-Challenge
 Solutions of WSDM - KKBox's Music Recommendation Challenge
